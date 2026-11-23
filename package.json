@@ -38,10 +38,10 @@
   "author": "zfc-software",
   "license": "ISC",
   "dependencies": {
-    "chrome-launcher": "^1.2.1",
+    "chrome-launcher": "^1.2.3",
     "ghost-cursor": "^1.4.2",
     "puppeteer-extra": "^3.3.6",
-    "rebrowser-puppeteer-core": "^24.8.1",
+    "rebrowser-puppeteer-core": "^25.16.0",
     "tree-kill": "^1.2.2",
     "xvfb": "^0.4.0"
   },
